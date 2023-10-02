@@ -1,52 +1,32 @@
 [
   {
     "id": 1,
-    "prenom": "Kirby en vacance",
-    "nom": "",
-    "date_de_naissance": "",
-    "avatar": "img/1.png",
-    "numero_de_telephone": "",
-    "adresse_email": "",
+    "titre": "Kirby en vacance",
+    "img": "img/1.png",
     "description": "Croque la vie à pleine dents"
   },
   {
     "id": 2,
-    "prenom": "Panda choqué",
-    "nom": "",
-    "date_de_naissance": "",
-    "avatar": "img/2.png",
-    "numero_de_telephone": "",
-    "adresse_email": "",
+    "titre": "Panda choqué",
+    "img": "img/2.png",
     "description": "Triste que les pandas ne se reproduisent pas beaucoup"
   },
   {
     "id": 3,
-    "prenom": "Freddy le coussin",
-    "nom": "",
-    "date_de_naissance": "",
-    "avatar": "img/3.png",
-    "numero_de_telephone": "",
-    "adresse_email": "",
+    "titre": "Freddy le coussin",
+    "img": "img/3.png",
     "description": "Dodu à souhait, pour un confort incomparable"
   },
   {
     "id": 4,
-    "prenom": "La chose",
-    "nom": "",
-    "date_de_naissance": "",
-    "avatar": "img/4.png",
-    "numero_de_telephone": "",
-    "adresse_email": "",
-    "description": "Sa femme ne veut plus de lui parce qu il est moche"
+    "titre": "La chose",
+    "img": "img/4.png",
+    "description": "Sa femme ne veut plus de lui parce qu'il est moche"
   },
   {
     "id": 5,
-    "prenom": "Meh",
-    "nom": "",
-    "date_de_naissance": "",
-    "avatar": "img/5.png",
-    "numero_de_telephone": "",
-    "adresse_email": "",
+    "titre": "Meh",
+    "img": "img/5.png",
     "description": "Aidez ce nuage"
   }
 ]
