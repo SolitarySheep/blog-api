@@ -2,31 +2,31 @@
   {
     "id": 1,
     "titre": "Kirby en vacance",
-    "img": "/img/1.png",
+    "image": "img/1.png",
     "description": "Croque la vie à pleine dents"
   },
   {
     "id": 2,
     "titre": "Panda choqué",
-    "img": "/img/2.jpg",
+    "image": "img/2.jpg",
     "description": "Triste que les pandas ne se reproduisent pas beaucoup"
   },
   {
     "id": 3,
     "titre": "Freddy le coussin",
-    "img": "/img/3.png",
+    "image": "img/3.png",
     "description": "Dodu à souhait, pour un confort incomparable"
   },
   {
     "id": 4,
     "titre": "La chose",
-    "img": "/img/4.jpg",
+    "image": "img/4.jpg",
     "description": "Sa femme ne veut plus de lui parce qu'il est moche"
   },
   {
     "id": 5,
     "titre": "Meh",
-    "img": "/img/5.png",
+    "image": "img/5.jpg",
     "description": "Aidez ce nuage"
   }
 ]
